@@ -9,7 +9,11 @@ If you click on the cross mark the words get saved to a new file (words_to_learn
 
 Next time you start the game, you will only get words from the new file (words_to_learn.csv).
 
-TRICK: To create the csv file of any language of your choice, click on this link: https://github.com/hermitdave/FrequencyWords/tree/master/content/2018 to visit @hermitdave word compilation repository. 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TRICK:
+
+To create the csv file of any language of your choice, click on this link: https://github.com/hermitdave/FrequencyWords/tree/master/content/2018 to visit @hermitdave word compilation repository. 
 
 Select the language you like and copy the words, paste it in google sheets.
 
